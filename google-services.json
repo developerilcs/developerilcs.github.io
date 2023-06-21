@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1035719733575",
+    "project_id": "imagetotextocrscanner-4b231",
+    "storage_bucket": "imagetotextocrscanner-4b231.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035719733575:android:b98aecd0e866eb6d221c62",
+        "android_client_info": {
+          "package_name": "com.imagetotextocrscanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1035719733575-ougrn5co5n5e16j8vkc1imqb5teonig7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnERPS1X5HlMdO_snKFVwVTPXFxYDbqOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1035719733575-ougrn5co5n5e16j8vkc1imqb5teonig7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
